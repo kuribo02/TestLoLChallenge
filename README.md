@@ -1,6 +1,9 @@
 # TestLoLChallenge
 TestLoLChallenge
 
+download .apk:
+http://www.filedropper.com/leaguechallenge_1
+
 Random League of Legends build generator with google+ and leaderboard icluded.
 
 -LoL Challenge creates a random build containing: 6 items (boots + 5 items), 2 summoner spells and 3 champions.
